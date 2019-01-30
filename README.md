@@ -13,7 +13,7 @@ https://en.wikipedia.org/wiki/Linear%E2%80%93quadratic_regulator
 
 http://in.mathworks.com/help/control/ref/lqr.html
 *************************************************
-Manual:
+##Manual:
 
 Run the Initialize_model.m script to load the state-space model of the inverted pendulum.
 
@@ -21,7 +21,7 @@ Open Inverted_pendulum_simulation.slx and run the simulation.
 
 Run Animate_inverted_pendulum.m and Plot_graphs_after_simulation.m scripts to animate the simulation and plot graphs of state variables after simulation.
 *************************************************
-Advanced:
+##Advanced:
 
 You can experiment with different penalties on state variables i.e. matrix Q and penalties on input force i.e. matrix R in Initialize_model.m script.
 
